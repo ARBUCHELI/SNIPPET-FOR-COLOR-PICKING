@@ -10,4 +10,4 @@ Code snippet that can be used for apps that need to implement color picking.
 2. Open the index.html file in Google Chrome to see the project.
 3. Pick a color
 
-Author: Andrés R. Bucheli.
+# Author: Andrés R. Bucheli.
